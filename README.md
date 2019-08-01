@@ -1,7 +1,8 @@
 # _Amplitude_ OMG Microservice
 
 [![Open Microservice Guide](https://img.shields.io/badge/OMG%20Enabled-👍-green.svg?)](https://microservice.guide)
-
+[![Build Status](https://travis-ci.com/omg-services/amplitude.svg?branch=master)](https://travis-ci.com/omg-services/amplitude)
+[![codecov](https://codecov.io/gh/omg-services/amplitude/branch/master/graph/badge.svg)](https://codecov.io/gh/omg-services/amplitude)
 
 An OMG service for amplitude, it is a product analytics service that makes it easier for companies to understand user behavior, ship the right features and improve business outcomes.
 
